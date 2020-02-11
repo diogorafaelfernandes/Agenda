@@ -1,0 +1,18 @@
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\bin\Debug\Agenda.exe
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\bin\Debug\Agenda.pdb
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.frmCadastroContato.resources
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.frmPrincipal.resources
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\ronal\AppData\Local\Temporary Projects\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.frmCadastroContato.resources
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.frmPrincipal.resources
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.frmConsultaContatos.resources
+C:\Users\ronal\onedrive\documentos\visual studio 2010\Projects\Agenda\Agenda\obj\x86\Debug\Agenda.csprojResolveAssemblyReference.cache
